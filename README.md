@@ -1,2 +1,3 @@
-# mini-content-cms-t4dv
-A content management system for modern development workflows
+# Mini Content Cms T4Dv
+
+A content management system for modern development workflows.
